@@ -25,7 +25,7 @@ Return the sum of all the scores on the record.
 </p>
 
 
-```
+```php
 class Solution{
 	function calPoints($ops){
 		$array = array();
