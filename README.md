@@ -25,7 +25,7 @@ Return the sum of all the scores on the record.
 </p>
 
 
-<pre>
+```
 class Solution{
 	function calPoints($ops){
 		$array = array();
@@ -58,6 +58,4 @@ $ops = ["5","2","C","D","+"];
 $soluton = new Solution();
 $output = $soluton->calPoints($ops);
 echo $output;
-
-?>
-</pre>
+```
