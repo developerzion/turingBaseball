@@ -1,4 +1,4 @@
-### **Turing Test Quiz: Baseball Game using PHP**
+## **Turing Test Quiz: Baseball Game using PHP**
 
 <p>You are keeping score for a baseball game with strange rules. The game consists of several rounds. Where the scores of past rounds may affect future round scores.
 At the beginning of the game, you start with an empty record. You are given a list of string ops, where ops[i] is the ith operation you must apply to the record and is one of the following:
