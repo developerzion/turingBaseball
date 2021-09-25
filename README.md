@@ -11,17 +11,21 @@ Return the sum of all the scores on the record.
 
 **Example 1:**
 
-**Input:** ops = ["5","2","C","D","+"]
+```php 
+Input: ops = ["5","2","C","D","+"]
+```
 
-**Output:** 30
+**Output: 30**
 
 **Example 2:**
+```php
+Input: ops = ["5","-2","4","C","D","9","+","+"]
+```
+**Output: 27**
 
-**Input:** ops = ["5","-2","4","C","D","9","+","+"]
-
-**Output:** 27
-
-**Test Case:** ["5","2","C","D","+"]
+```php
+TestCase: ["5","2","C","D","+"]
+```
 </p>
 
 
